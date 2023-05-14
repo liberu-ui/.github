@@ -1,4 +1,4 @@
-## CGD User Interfaces
+## Liberu User Interfaces
 
 Open source projects licensed under MIT. See https://github.com/laravel-liberu for our server side projects.
 
