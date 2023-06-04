@@ -1,28 +1,17 @@
-## Liberu User Interfaces
+#Laravel Liberu
+Open source projects licensed under MIT. See https://github.com/liberu-ui for our client-side projects.
+##Support services (new)  
+While developing genealogy, we received many inquiries from devs and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
+If you need premium support when building your own applications with genealogy, we can help. Our support packages start at £500 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
+With premium support you will get:
 
-Open source projects licensed under MIT. See https://github.com/laravel-liberu for our server side projects.
-
-### Support services (new)
-While developing genealogy, we constantly received private inquiries from devs and teams asking us about paid support. Some of these requests even lead to fruitful collaborations, so we finally decided to launch such an option.
-
-If you're looking for premium support when building applications with genealogy we can help you with that. Our support packages start at £500 / month with 8 hours included. With premium support you will get:
-
-a private repo on our self hosted gitlab instance where you can host your project
-
-priority in addressing your issues
-
-help with understanding the environment
-
-getting you to be proficient when developing on our projects
-
-mentoring
-
-code reviews
-
-general advice & support on Laravel & Vue
-
-assistance on version upgrades
-
-direct communication via Slack during our office hours
-
-The support services are provided by a team of 4 members.
+First priority on having your issues addressed
+A private repo within our GitLab instance where you can host your project
+Help understanding the environment
+Help becoming more proficient when developing your projects
+Advice and mentoring
+Detailed code reviews
+Support and Guidance on Laraval and Vue generally. 
+1-2-1 assistance on version upgrades
+Direct communication via Slack (during our office hours only)
+We have 4 members on our dedicated support team, so there should be little if any waiting!
