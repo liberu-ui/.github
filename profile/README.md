@@ -1,7 +1,7 @@
 ## Liberu User Interfaces
 Open source projects licensed under MIT. See https://github.com/laravel-liberu for our server side projects.
 ## Support services (new)  
-While developing https://github.com/liberu-ui/genealogy, we received many inquiries from devs and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
+While developing https://github.com/liberu-ui/genealogy, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
 If you need premium support when building your own applications with genealogy, we can help. Our support packages start at £200 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
 ### With premium support you will get:
 
