@@ -36,7 +36,7 @@ By sponsoring Genealogy Websites, your company/organization can make a meaningfu
 
 ## Support services (new)  
 While developing https://github.com/liberu-ui/genealogy, we received many inquiries from developers and teams asking us about paid support. Some of these requests lead to fruitful collaborations, so we finally decided to launch such a paid support option.
-If you need premium support when building your own applications with genealogy, we can help. Our support packages start at £200 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
+If you need premium support when building your own applications with genealogy, we can help. Our support packages start at £500 per month, and include up to 8 hours of direct contact and support each month at no extra charge.
 ### With premium support you will get:
 
 * First priority on having your issues addressed
