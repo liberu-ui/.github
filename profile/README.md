@@ -24,7 +24,8 @@ See https://github.com/orgs/liberu-ui/repositories for more of our repositories.
 ## Sponsorship
 Genealogy Websites is dedicated to connecting individuals with their family history and facilitating the exploration of their ancestral roots. Through our flagship website, Family Tree 365, we offer a comprehensive platform where users can create and navigate their family trees, connect with relatives, and access historical records. Our project aims to make genealogy accessible to all, regardless of their background or financial resources.
 
-[https://www.genealogywebsites.org.uk/donate](https://genealogywebsites.org.uk/donate/)
+https://github.com/sponsors/laravel-liberu
+
 By sponsoring Genealogy Websites, your company/organization can make a meaningful impact in the following ways:
 
 * Promote Corporate Social Responsibility: Your sponsorship will demonstrate your commitment to social responsibility by supporting a project that enables individuals to discover and preserve their family heritage. It showcases your company/organization's dedication to empowering communities and preserving cultural legacies.
