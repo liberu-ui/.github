@@ -1,9 +1,9 @@
 ## Liberu UI
 See https://github.com/laravel-liberu for our backend projects.
 
-Our open source project, built with Vue 3 and Nuxt 3, is an exciting and innovative initiative that aims to revolutionize web development and empower developers with cutting-edge technologies. By harnessing the power of Vue 3 and the advanced features of Nuxt 3, our project provides an unparalleled framework for building robust and scalable web applications.
+Our open source projects, built with Vue 3 and Nuxt 3, is an exciting and innovative initiative that aims to revolutionize web development and empower developers with cutting-edge technologies. By harnessing the power of Vue 3 and the advanced features of Nuxt 3, our project provides an unparalleled framework for building robust and scalable web applications.
 
-At its core, our project embraces Vue 3, the latest version of the popular JavaScript framework. Vue 3 brings numerous enhancements, including improved reactivity, better performance, and enhanced TypeScript support. Leveraging Vue 3's composition API, developers can create modular, reusable components that offer greater flexibility and code organization, resulting in cleaner and more maintainable codebases.
+At its core, our projects embraces Vue 3, the latest version of the popular JavaScript framework. Vue 3 brings numerous enhancements, including improved reactivity, better performance, and enhanced TypeScript support. Leveraging Vue 3's composition API, developers can create modular, reusable components that offer greater flexibility and code organization, resulting in cleaner and more maintainable codebases.
 
 Complementing Vue 3, our project utilizes Nuxt 3, the next generation of the popular Nuxt.js framework. Nuxt 3 builds upon the strengths of Vue and enhances the development experience with features like serverless functions, improved static site generation, and dynamic components. With Nuxt 3, developers can build performant and SEO-friendly applications effortlessly, taking advantage of its built-in optimizations and streamlined development process.
 
