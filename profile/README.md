@@ -24,13 +24,14 @@ Custom Web Application Development: Our team of Laravel experts utilizes the ful
 Under development:
 
 * https://github.com/liberu-ui/genealogy
+* https://github.com/liberu-ui/boilerplate
+* https://github.com/liberu-ui/ecommerce
 
 Planning stage:
 
 * https://github.com/liberu-ui/accounting
 * https://github.com/liberu-ui/billing
 * https://github.com/liberu-ui/cms
-* https://github.com/liberu-ui/ecommerce
 * https://github.com/liberu-ui/maintenance
 * https://github.com/liberu-ui/real-estate
 
