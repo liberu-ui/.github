@@ -1,5 +1,5 @@
 ## Liberu UI
-<font size= “8”>** See https://github.com/laravel-liberu for our backend projects. ** </font>
+### See https://github.com/laravel-liberu for our backend projects.
 
 Our open source projects, built with Vue 3 and Nuxt 3, is an exciting and innovative initiative that aims to revolutionize web development and empower developers with cutting-edge technologies. By harnessing the power of Vue 3 and the advanced features of Nuxt 3, our project provides an unparalleled framework for building robust and scalable web applications.
 
